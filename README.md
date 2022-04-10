@@ -7,3 +7,6 @@ Este repositório é de uso pessoal, mas **fique a vontade** para usar qualquer 
 -  Docs
 -  [Scripts](https://github.com/rafael-debug/AWS/tree/main/Scripts)
 -  
+
+
+>Skype: rafael_lucas_exe
