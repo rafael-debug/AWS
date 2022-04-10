@@ -11,11 +11,11 @@ Este repositório é de uso pessoal, mas **fique a vontade** para usar qualquer 
 
 
 ### AWS CLI Linux:
-** Baixar pacote aws cli:
+**Baixar pacote aws cli:**
 ```
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 ```
-**Descompacta o awscliv2.zip usando _unzip_ e instale usando:
+**Descompacta o awscliv2.zip usando _unzip_ e instale usando**:
 ```
 sudo ./aws/install -i /usr/local/aws-cli -b /usr/local/bin
 ```
