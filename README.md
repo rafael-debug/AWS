@@ -4,7 +4,7 @@ Aqui fica minhas _docs, automatizações_ e _outras coisas relacionada_ a aws.
 Este repositório é de uso pessoal, mas **fique a vontade** para usar qualquer coisa aqui
 
 ## Módulos:
--  [Docs](https://github.com/rafael-debug/AWS/tree/main/Docs)
+-  [ ] [Docs](https://github.com/rafael-debug/AWS/tree/main/Docs)
 -  [Scripts](https://github.com/rafael-debug/AWS/tree/main/Scripts)
 -
 -
@@ -12,7 +12,7 @@ Este repositório é de uso pessoal, mas **fique a vontade** para usar qualquer 
 
 ### AWS CLI Linux:
 **Baixar pacote aws cli:**
-```sh
+```shcl
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 ```
 **Descompacta o awscliv2.zip usando _unzip_ e instale usando**:
