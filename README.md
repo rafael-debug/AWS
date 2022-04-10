@@ -5,7 +5,7 @@ Este repositório é de uso pessoal, mas **fique a vontade** para usar qualquer 
 
 ## Módulos:
 -  [ ] [Docs](https://github.com/rafael-debug/AWS/tree/main/Docs)
--  [Scripts](https://github.com/rafael-debug/AWS/tree/main/Scripts)
+-  [x] [Scripts](https://github.com/rafael-debug/AWS/tree/main/Scripts)
 -
 -
 
@@ -20,6 +20,11 @@ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip
 sudo ./aws/install -i /usr/local/aws-cli -b /usr/local/bin
 ```
 
+###  Links uteis:
+Propriedade | Link
+------------|------------
+AWS principal | https://docs.aws.amazon.com/
+Well-Architected pt | https://docs.aws.amazon.com/pt_br/wellarchitected/latest/framework/wellarchitected-framework.pdf
 
 
 >Skype: rafael_lucas_exe
