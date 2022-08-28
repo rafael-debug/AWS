@@ -1,0 +1,5 @@
+eksctl create cluster -f cluster.yaml ##criar cluster
+
+ekctl utils associate-iam-oidc-provider --region=us-east-01 --cluster Pinca-labs --approve ##Cria oidc do iam
+
+eksctl create iamserviceaccount --name external-dns --namespace default --cluster Pinca-labs --attach-policy-arn arn_da_policy/AllowExternalDNSUpdate --approve ##Policy do dns update
