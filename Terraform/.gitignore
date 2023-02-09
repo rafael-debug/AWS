@@ -1,0 +1,8 @@
+.terraform/
+*.backup
+*.hcl
+*.tfvars
+*.tfsatae
+*.out
+*.info
+aws-key*
