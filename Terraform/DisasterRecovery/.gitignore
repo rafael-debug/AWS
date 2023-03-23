@@ -1,0 +1,6 @@
+tfout.out
+terraform.tfstate.backup
+terraform.tfstate
+public_ip.txt
+aws-key-gophish
+aws-key-gophish.pub
