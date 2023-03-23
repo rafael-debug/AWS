@@ -8,8 +8,8 @@ Este repositório é de uso pessoal, mas **fique a vontade** para usar qualquer 
 ## Módulos:
 -  [ ] [Docs](https://github.com/rafael-debug/AWS/tree/main/Docs)
 -  [x] [Scripts](https://github.com/rafael-debug/AWS/tree/main/Scripts)
--  [_]  [EKS] (https://github.com/rafael-debug/AWS/tree/main/EKS)
--  [_]  [CloudFormation] (https://github.com/rafael-debug/AWS/tree/main/CloudFormation)
+-  [ ] [EKS] (https://github.com/rafael-debug/AWS/tree/main/EKS)
+-  [ ]  [CloudFormation] (https://github.com/rafael-debug/AWS/tree/main/CloudFormation)
 -  [x]  [Terraform] (https://github.com/rafael-debug/AWS/tree/main/Terraform)
 
 
