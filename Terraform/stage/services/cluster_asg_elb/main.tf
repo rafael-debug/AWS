@@ -28,6 +28,9 @@ terraform {
     bucket = "tfstate-rafael"
     key    = "iac-cluster-asg-elb"
     region = "us-east-1"
+
+    #dynamodb_table = ""
+    #encrypt = true
   }
 }
 
